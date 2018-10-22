@@ -26,3 +26,7 @@ You can also edit or delete a message and the bot will do the right thing.
 In Slack, type `..stopLatex` to disable bot and `..startLatex` to re-enable bot. This only applies the user and channel that typed this. By default, it will work for all users in every channel the box exists.
 
 [screen]:http://i.imgur.com/7xbkJ6P.png
+
+
+### TODO:
+http://srmart.in/latex-in-slack/
